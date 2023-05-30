@@ -1,0 +1,64 @@
+commit 814d43457a79fcd8b2cb5342e0f220a207beeb30
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Tue May 30 15:23:03 2023 -0700
+
+    Route Update
+    Commit by @arfazhxss on Tue 30 May 2023
+
+commit 10a35c58ca7efc6ec220d8f6efa5f7e2cf66891e
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Tue May 9 00:26:10 2023 -0700
+
+    Routine Commit
+    by @arfazhxss on Tue  9 May 2023 00:26:10 PDT
+
+commit 4bf79cbbc2ffd65372b289dcabb39f8f216d57ba
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sun May 7 02:45:45 2023 -0700
+
+    Routine Commit Session
+    Committed on: [Sun  7 May 2023 02:45:45 PDT]
+    by Arfaz
+
+commit d26a885538bcf83d856a7b34a8719170a445c21b
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sun May 7 01:45:05 2023 -0700
+
+    Routine Commit Session
+    Committed on: [Sun  7 May 2023 01:45:05 PDT]
+    by Arfaz
+
+commit dfc518ad18ff6395e493cbf252e960c13f75b8e3
+Merge: 5fc9265 984d58e
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sun May 7 01:44:24 2023 -0700
+
+    Merge branch 'main' of https://github.com/arfazhxss/spinningstructs
+
+commit 984d58e3307591c3ca1e2aeb32d8ab559d218a79
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sun May 7 01:42:30 2023 -0700
+
+    Final Update
+
+commit 5fc92657cdc89297a742bec203c4235df9d10352
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sun May 7 01:27:47 2023 -0700
+
+    Routine Commit Session
+    Committed on: [Sun  7 May 2023 01:27:46 PDT]
+    by Arfaz
+
+commit 33cd20d5780c82447f46a21e54739e9e3075c5d4
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Fri Feb 3 13:01:28 2023 -0800
+
+    February 3, 2023 - Initialized Commit
+
+commit fbb4a262a4011b06f672ccfd900d3b14ea8b7a4a
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Fri Feb 3 12:56:41 2023 -0800
+
+    Routine Commit Session
+    Committed on: [Fri  3 Feb 2023 12:56:41 PST]
+    by Arfaz
